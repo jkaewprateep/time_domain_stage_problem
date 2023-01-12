@@ -82,11 +82,17 @@ def step_api_compatibility(
 | File name | Description |
 |--- |--- |
 | sample.py | sample codes |
+| Figure_1.png | image remak and results |
+| Figure_1.png | image remak and results |
 | Marios Bros.gif | result |
 
 ## Results ##
 
 ![Sample problem solving](https://github.com/jkaewprateep/time_domain_stage_problem/blob/main/Marios%20Bros.gif "Sample problem solving")
+
+![Sample problem solving](https://github.com/jkaewprateep/time_domain_stage_problem/blob/main/Figure_1.png "Sample problem solving")
+
+![Sample problem solving](https://github.com/jkaewprateep/time_domain_stage_problem/blob/main/Figure_2.png "Sample problem solving")
 
 ## References ##
 
