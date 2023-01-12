@@ -37,11 +37,9 @@ def step(self, action):
     return observation, reward, terminated, truncated, info
 ```
 
-```\Python310\lib\site-packages\gym\utils\step_api_compatibility.py ```
-
 ## step_api_compatibility ##
 
-We remarked it based on the program compatibilities and support read original ```step_api_compatibility``` .
+We remarked it based on the program compatibilities and support read original ```step_api_compatibility``` file: ```\Python310\lib\site-packages\gym\utils\step_api_compatibility.py ```
 
 ```
 def step_api_compatibility(
