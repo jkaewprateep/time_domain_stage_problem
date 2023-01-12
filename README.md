@@ -70,6 +70,17 @@ def step_api_compatibility(
         return convert_to_done_step_api(step_returns, is_vector_env)
 ```
 
+## Files and Directory ##
+
+| File name | Description |
+|--- |--- |
+| sample.py | sample codes |
+| Marios Bros.gif) | result |
+
+## Results ##
+
+![Sample problem solving](https://github.com/jkaewprateep/time_domain_stage_problem/blob/main/Marios%20Bros.gif "Sample problem solving")
+
 ## References ##
 
 #### gym-super-mario-bros 7.4.0 ####
