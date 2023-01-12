@@ -1,6 +1,6 @@
 # time_domain_stage_problem
 
-For study time domain stage games puzzles. ( Building environments )
+For study time domain stage games puzzles. ( Building environments, AI from the last working versions )
 
 Games input is based on the time steps limits, some warning meesages are from compatibility for the game and Gym environment when current has 5 variables output but the Super Mario games based on 4 output as the games versions and I found they asking on the webboard. ```gym-super-mario-bros 7.4.0```, file: ```\Python310\lib\site-packages\gym\wrappers\time_limit.py```
 
@@ -84,7 +84,7 @@ def step_api_compatibility(
 | File name | Description |
 |--- |--- |
 | sample.py | sample codes |
-| Marios Bros.gif) | result |
+| Marios Bros.gif | result |
 
 ## Results ##
 
